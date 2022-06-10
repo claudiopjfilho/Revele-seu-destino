@@ -25,7 +25,7 @@ const answer = [
 
 function makeQuest() {
   if (inputQuest.value == 0) {
-    alert('Type your question!!!')
+    alert('Revele seu destino!')
     return
   }
   questButton.setAttribute('disabled', true)
